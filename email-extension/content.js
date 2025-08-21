@@ -1,4 +1,4 @@
-console.log(" loaded hurrey gudk");
+console.log(" Project began");
 
 
 function createAIBButton() {
